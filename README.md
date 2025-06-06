@@ -1,2 +1,2 @@
-# C-DIGOS_EM_C
+# CODIGOS_EM_C
 Aqui contém meus códigos na linguagem C.
